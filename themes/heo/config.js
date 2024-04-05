@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'jiatuo.cn',
   HEO_HERO_TITLE_4: '星际视角',
   HEO_HERO_TITLE_5: '昴宿二信息传递',
-  HEO_HERO_TITLE_LINK: 'https://ajiatuo.cn',
+  HEO_HERO_TITLE_LINK: 'https://ajiatuo.cn/example-1',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
