@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到伽陀之语', url: 'http://ajiatuo.cn' },
-    { title: '', url: '' }
+    { title: '欢迎来到伽陀之语', url: 'http://www.ajiatuo.cn' },
+    { title: '聆听心灵深处的声音', url: 'www.ajiatuo.cn' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -17,7 +17,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '生命觉醒',
   HEO_HERO_TITLE_2: '与心灵探索',
-  HEO_HERO_TITLE_3: 'jiatuo.cn',
+  HEO_HERO_TITLE_3: 'htttp://www.ajiatuo.cn',
   HEO_HERO_TITLE_4: '星际视角',
   HEO_HERO_TITLE_5: '昴宿二信息传递',
   HEO_HERO_TITLE_LINK: 'https://www.ajiatuo.cn/article/example-1',
@@ -35,12 +35,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是阿伽陀',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 寻找真实的自己',
+    '🤝 爱是解开的密码',
+    '🏃 相信自己的内心',
+    '🏠 回归灵魂的家园',
+    '🤖️ 突破 AI 的限制',
+    '🧱 从矩阵束缚醒来'
   ],
   HEO_INFO_CARD_URL: 'https://ajiatuo.cn/about', // 个人资料底部按钮链接
 
