@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到唤醒空间', url: 'https://blog.ajiatuo.cn' },
-    { title: '', url: '' }
+    { title: '欢迎来到伽陀的博客', url: 'https://blog.ajiatuo.cn' },
+    { title: '这是分享随身感悟的地方', url: '' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -19,9 +19,9 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享知识',
-  HEO_HERO_TITLE_2: '与生命智慧',
+  HEO_HERO_TITLE_2: '生命智慧',
   HEO_HERO_TITLE_3: 'AJIATUO.CN',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '',
   HEO_HERO_TITLE_5: '成长是生命的源动力',
   HEO_HERO_TITLE_LINK: 'https://ajiatuo.cn',
   // 英雄区遮罩文字
@@ -44,7 +44,6 @@ const CONFIG = {
     '🤝 理解情感智慧',
     '🏃 随手写出心情',
     '🏠 与同修共成就',
-    '',
     ''
   ],
 
